@@ -4,3 +4,6 @@ fancy_echo "Installing Suspenders, thoughtbot's Rails template ..."
 fancy_echo "Installing Parity, shell commands for development, staging, and
 production parity ..."
   gem install parity --no-document
+
+fancy_echo "Installing sup mail client..."
+  gem install sup
